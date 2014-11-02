@@ -1,0 +1,6 @@
+# Spotify
+.spotify/*
+spotify_appkey.key
+
+# Bundler
+Gemfile.lock
